@@ -64,6 +64,7 @@ Material extendido.
   John Schulman en la cual presenta varias buenas prácticas para tener mejores
   modelos de Deep RL.
 
-#### Contacto
-Si posees alguna duda o simplemente deseas hablar de tu proyecto sientete libre
-de comunicarte con el ponente via email: shpotes3[at]gmail[dot]com
+##### Ponente:
+Santiago Hincapie-Potes<br>
+shpotes3[at]gmail[dot]com<br>
+@shpotes
